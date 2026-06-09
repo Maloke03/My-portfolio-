@@ -15,8 +15,8 @@ PORTFOLIO = {
         "and Active Directory environments."
     ),
     "email": "malokethabelo88@gmail.com",
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://linkedin.com/in/yourusername",
+    "github": "https://github.com/Maloke03",
+    "linkedin": "https://linkedin.com/in/Thabelo Maloke",
     "skills": [
         {"category": "Languages",    "items": ["Python", "HTML/CSS", "SQL", "JavaScript"]},
         {"category": "Data & Tools", "items": ["Pandas", "Excel", "Power BI", "Jupyter"]},
